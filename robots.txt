@@ -1,0 +1,6 @@
+# Root robots.txt for emirkankirman2-arch.github.io
+User-agent: *
+Allow: /
+
+Sitemap: https://emirkankirman2-arch.github.io/gamedev-mechanics-vault/sitemap.xml
+Sitemap: https://emirkankirman2-arch.github.io/web-app-design-vault/sitemap.xml
